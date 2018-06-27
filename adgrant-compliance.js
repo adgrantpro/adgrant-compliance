@@ -14,7 +14,7 @@ More Info : https://www.suisseo.ch/en/blog/google-ad-grants-script/
 
 // Add all your accounts in this JSON object
 var accountData = {
-    '888-888-8888': {
+    ‘111-111-1111’: {
         'accountName': 'ACCOUNT 1',
         'spreadUrl': 'https://docs.google.com/spreadsheets/d/ACCOUNT1SPREADSHEETKEY/edit#gid=0',
         'alertMails': [‘example@gmail.com’],
